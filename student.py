@@ -21,7 +21,7 @@ def luhn(numero: str) -> bool:
     
     return soma % 10 == 0
   
-if luhn():
+if luhn(numero):
     print("Cartão válido!")
 else:
     print("Cartão inválido!")
