@@ -1,4 +1,4 @@
-#JoaoLuizEstevesTeixeira/EduardoAndradeDeAmorin/
+#JoaoLuizEstevesTeixeira/EduardoAndradeDeAmorin/FranciscoAntonioBrigagaoDias?
 numero = input()
 def luhn(numero: str) -> bool:
     
